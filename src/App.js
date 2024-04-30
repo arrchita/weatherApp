@@ -4,6 +4,7 @@ import Axios from "axios";
 import CityComponent from "./modules/CityComponent";
 import WeatherComponent from "./modules/WeatherInfoComponent";
 
+//weather icons
 export const WeatherIcons = {
   "01d": "/react-weather-app/icons/sunny.svg",
   "01n": "/react-weather-app/icons/night.svg",
